@@ -1,7 +1,8 @@
+
 {
-  "name": "",
-  "website": "",
-  "description": "",
-  "logo": "https://raw.githubusercontent.com/khaled-ghn/Chainbase-data/main/waffle%20with%20pfp.PNG", 
-  "twitter": ""
+  "name": "Chainbase",
+  "website": "https://github.com/khaled-ghn",
+  "description": "A brief description of your project or application.",
+  "logo": "https://raw.githubusercontent.com/khaled-ghn/Chainbase-data/main/waffle%20with%20pfp.PNG",
+  "twitter": "https://twitter.com/ypaystore"
 }
